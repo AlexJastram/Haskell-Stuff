@@ -1,2 +1,4 @@
 module Main where
-main = print ("HelloWorld")
+main = do
+  print ("HelloWorld")
+  print ("Haskell")
